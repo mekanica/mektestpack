@@ -47,6 +47,12 @@
    "fileID": 2684645,
    "projectID": 238222,
    "required": true
+  },
+  {
+   "desc": "discordintegration",
+   "fileID": 2542101,
+   "projectID": 245288,
+   "required": true
   }
  ],
  "manifestType": "minecraftModpack",
