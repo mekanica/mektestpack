@@ -29,6 +29,18 @@
    "fileID": 2588336,
    "projectID": 247408,
    "required": true
+  },
+  {
+   "desc": "schematica",
+   "fileID": 2554100,
+   "projectID": 225603,
+   "required": true
+  },
+  {
+   "desc": "lunatriuscore",
+   "fileID": 2489549,
+   "projectID": 225605,
+   "required": true
   }
  ],
  "manifestType": "minecraftModpack",
