@@ -41,6 +41,12 @@
    "fileID": 2489549,
    "projectID": 225605,
    "required": true
+  },
+  {
+   "desc": "jei",
+   "fileID": 2684645,
+   "projectID": 238222,
+   "required": true
   }
  ],
  "manifestType": "minecraftModpack",
