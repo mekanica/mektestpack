@@ -1,0 +1,47 @@
+{
+ "files": [
+  {
+   "desc": "mekanica-tools",
+   "fileID": 2690127,
+   "projectID": 315907,
+   "required": true
+  },
+  {
+   "desc": "mekanica",
+   "fileID": 2690125,
+   "projectID": 315844,
+   "required": true
+  },
+  {
+   "desc": "mekanica-generators",
+   "fileID": 2690126,
+   "projectID": 315908,
+   "required": true
+  },
+  {
+   "desc": "laggoggles",
+   "fileID": 2536205,
+   "projectID": 283525,
+   "required": true
+  },
+  {
+   "desc": "useful-nullifiers",
+   "fileID": 2588336,
+   "projectID": 247408,
+   "required": true
+  }
+ ],
+ "manifestType": "minecraftModpack",
+ "manifestVersion": 1,
+ "minecraft": {
+  "modLoaders": [
+   {
+    "id": "forge-14.23.5.2768",
+    "primary": true
+   }
+  ],
+  "version": "1.12.2"
+ },
+ "name": "mektestpack",
+ "version": "0.0.1"
+}
